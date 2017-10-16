@@ -48,6 +48,8 @@ footer a {
 .navigation-container {
   height: 138px;
   width: 100%;
+  position: fixed;
+  left: 0;
 }
 
 .leftside-nav {
