@@ -79,6 +79,10 @@ footer a {
 .main-title-container {
   height: 574px;
   width: 100%;
+  /*position: relative;*/
+  /*top: 130px;*/
+  padding-top: 200px;
+
 }
 
 .nav-link {
