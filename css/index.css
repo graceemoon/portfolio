@@ -45,11 +45,13 @@ footer a {
   float: right;
 }
 
+.navigation-header {
+  position: fixed;
+}
 .navigation-container {
   height: 138px;
   width: 100%;
-  position: fixed;
-  left: 0;
+
 }
 
 .leftside-nav {
