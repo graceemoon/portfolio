@@ -1,5 +1,6 @@
 .rightside-nav span:nth-child(2) a {
 	border-bottom: solid 2px #2a1a87;
+	opacity: 1;
 }
 
 .visual-heading {
