@@ -61,3 +61,9 @@ margin-bottom: 24px;
 .allie {
 	padding-left: 15px;
 }
+
+
+.next-footer:hover {
+	color: #2a1a87;
+	text-decoration: none;
+}
