@@ -143,7 +143,9 @@
 }
 
 .next-footer {
-	/*align-self: flex-start;*/
-	/*float: left;*/
 	vertical-align: top;
+}
+.next-footer:hover {
+	color: #2a1a87;
+	text-decoration: none;
 }
