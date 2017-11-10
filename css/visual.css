@@ -11,17 +11,25 @@
 	width: 100%;
 	height: 100%;
 }
+.left-column img {
+	padding-right: 15px;
+}
+.right-column img {
+	padding-left: 15px;
+}
+
+
+
 
 .img-container {
 	position: relative;
 	/*overflow: hidden;*/
 }
-.left-column .img-container { 
+/*.left-column .img-container { 
 	margin-right: 15px;
 }
 .left-column > div:first-child {
 	margin-bottom: 40px;
-	/*margin-bottom: 18px;*/
 }
 
 .right-column .img-container { 
@@ -29,7 +37,7 @@
 }
 .right-column > div:first-child {
 	margin-bottom: 40px;
-}
+}*/
 
 .popup { 
 	position: absolute;
