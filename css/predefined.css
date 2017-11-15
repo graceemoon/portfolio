@@ -313,6 +313,7 @@ footer a:hover {
 }
 
 .copyright-footer {
+  text-align: center;
   color: rgba(0, 0, 0, 0.87);
   font-size: 15px;
   left: 0;
@@ -320,7 +321,6 @@ footer a:hover {
   line-height: 2.13;
   opacity: 0.5;
   padding-bottom: 12px;
-  width: 169px;
 }
 
 
